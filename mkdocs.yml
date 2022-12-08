@@ -1,0 +1,8 @@
+site_name: Example (naive) real-estate pricing
+
+theme:
+  name: "material"
+
+plugins:
+- search
+- mkdocstrings
